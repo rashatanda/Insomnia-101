@@ -1,10 +1,10 @@
 type: spec.insomnia.rest/5.0
 schema_version: "5.1"
-name: Insomnia
+name: Insomnia-101-Collection
 meta:
   id: wrk_6f1e15ed1f82466793a42274bbdd2803
   created: 1795381685223
-  modified: 1795381806052
+  modified: 1795389323496
   description: ""
 collection:
   - name: Auth
