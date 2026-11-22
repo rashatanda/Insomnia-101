@@ -1530,7 +1530,7 @@ spec:
     openapi: 3.0.1
     info:
       contact:
-        name: Mark Sivill
+        name: Rasheed Oredegbe
         url: https://konghq.com
       description: A simple HTTP Request & Response Service based on httpbin.org
         service by Kenneth Reitz with updated OpenAPI specification
@@ -2642,4 +2642,4 @@ spec:
   meta:
     id: spc_82525e84de75438e977b44bce486309e
     created: 1795381685225
-    modified: 1795381685226
+    modified: 1795389418853
